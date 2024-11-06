@@ -21,9 +21,14 @@
 
 ### 📂 Mis Proyectos
 
-- 💻 [API REST CRUD en Spring Boot](https://github.com/guilleAlvarenga/Spring-Boot-API-REST-CRUD) - API CRUD optimizada con Spring Boot.<br>
-- ⚙️ [Backend para Carrito de Compras](https://github.com/guilleAlvarenga/Spring-Boot-Dream-Shops) - Backend seguro con Spring Security.<br>
-- 🛠️ [API Convertidor de Divisas](https://github.com/guilleAlvarenga/Spring-Boot-API-Convertidor-de-Divisas) - Servicio REST para la conversión de monedas con documentación OpenAPI.
+- 💻 **[API REST CRUD en Spring Boot](https://github.com/guilleAlvarenga/Spring-Boot-API-REST-CRUD)**  
+  Una API robusta para gestionar usuarios en MySQL, con operaciones CRUD completas. Documentada con Swagger para una integración fácil y eficiente, garantizando una estructura de datos optimizada y escalable.
+
+- ⚙️ **[Backend para Carrito de Compras](https://github.com/guilleAlvarenga/Spring-Boot-Dream-Shops)**  
+  Plataforma de comercio electrónico con un sistema de gestión de productos y usuarios, implementando control de acceso avanzado y una función de búsqueda optimizada. Diseñada para mejorar la experiencia del usuario y aumentar la seguridad del sistema.
+
+- 🛠️ **[API Convertidor de Divisas](https://github.com/guilleAlvarenga/Spring-Boot-API-Convertidor-de-Divisas)**  
+  Servicio REST para la conversión de monedas con manejo avanzado de errores. Incluye documentación automática con OpenAPI, mejorando la interoperabilidad y la facilidad de uso para desarrolladores y usuarios finales.
 
 ###
 
